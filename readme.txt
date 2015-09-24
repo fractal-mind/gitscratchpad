@@ -1,0 +1,1 @@
+This is just a little repo that I started to play around and familiarize myself with Git.
